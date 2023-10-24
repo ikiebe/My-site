@@ -176,6 +176,11 @@ section {
   margin: auto 0;
 }
 
+.profile_pic{
+  border: 3px solid #000;
+
+}
+
 .section__text {
   align-self: center;
   text-align: center;
